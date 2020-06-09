@@ -1,0 +1,40 @@
+* {padding:0; margin:0; border:0; }
+
+body { background-color:#0F0;
+       background-size:cover;
+}
+
+#dream { background-image:url(sunflower.jpg);
+         background-size:cover;
+         width:1000px;
+		 height:650px;
+		 transform:translate(15%,10%);
+		}
+
+#content-wrapper {width:890px;}		 
+#content {float:left; width:580px;}
+#rightside {float:right; width:270px;}
+#footer {clear:both; 
+         padding:20px 0;
+		 border-top:1px #000 dotted;}
+
+.new01 { width:200px;
+         height:100px;
+}
+
+.new02 {width:200px;
+        height:100px;
+}
+
+#box1 { width:265px; float:left; margin-right:40px;}
+#box2 { width:265px; float:left;}
+
+.img-right { width:350px;
+             height:200px;
+			 float:right;
+			 padding:0 0 20px 10px;
+}
+
+.me { height:150px;
+      width:200px;
+}
